@@ -1,0 +1,23 @@
+{
+  "name": "insta-save",
+  "version": "1.0.0",
+  "description": "CLI app for instagram-downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "instagram",
+    "downloader",
+    "cli"
+  ],
+  "author": "N.Md Faizaan <aulisius7@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cli": "^1.0.1",
+    "node-fetch": "^1.6.3"
+  },
+  "bin": {
+    "insta-save": "index.js"
+  }
+}
