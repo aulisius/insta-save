@@ -1,7 +1,7 @@
 {
   "name": "insta-save",
   "version": "1.0.0",
-  "description": "CLI app for instagram-downloader",
+  "description": "CLI app to download images and videos from Instagram through Forfuture's API.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
